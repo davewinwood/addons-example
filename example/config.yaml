@@ -2,7 +2,7 @@
 name: Example add-on
 version: "1.1.0"
 slug: example
-description: Example add-on
+description: LXP Bridge
 url: "https://github.com/davewinwood/addons-example/tree/main/example"
 arch:
   - armhf
