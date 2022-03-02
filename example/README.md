@@ -1,4 +1,4 @@
-# Home Assistant Add-on: Example add-on
+# LXP Bridge Add On
 
 _Example add-on to use as a blueprint for new add-ons._
 
